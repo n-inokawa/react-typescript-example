@@ -11,7 +11,7 @@
     "tsc": "tsc -p . --noEmit"
   },
   "dependencies": {
-    "linaria": "2.0.2",
+    "linaria": "2.1.0",
     "formik": "2.2.6",
     "react": "17.0.1",
     "react-dom": "17.0.1",
